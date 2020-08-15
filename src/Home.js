@@ -21,13 +21,39 @@ function Home() {
            price={344.95}
            rating={5}
            image='https://images-na.ssl-images-amazon.com/images/I/61j4acmknmL._AC_SL1500_.jpg'/>
+          </div>  
+          <div className='home__row'>
+          <Product id='1234'
+           title='Dji Dornes'
+           price={344.95}
+           rating={5}
+           image='https://images-na.ssl-images-amazon.com/images/I/61j4acmknmL._AC_SL1500_.jpg'/>
 
           <Product id='1234'
            title='Dji Dornes'
            price={344.95}
            rating={5}
            image='https://images-na.ssl-images-amazon.com/images/I/61j4acmknmL._AC_SL1500_.jpg'/>
-          </div>          
+
+          <Product id='1234'
+           title='Dji Dornes'
+           price={344.95}
+           rating={5}
+           image='https://images-na.ssl-images-amazon.com/images/I/61j4acmknmL._AC_SL1500_.jpg'/>
+
+<Product id='1234'
+           title='Dji Dornes'
+           price={344.95}
+           rating={5}
+           image='https://images-na.ssl-images-amazon.com/images/I/61j4acmknmL._AC_SL1500_.jpg'/>
+
+          <Product id='1234'
+           title='Dji Dornes'
+           price={344.95}
+           rating={5}
+           image='https://images-na.ssl-images-amazon.com/images/I/61j4acmknmL._AC_SL1500_.jpg'/>
+          </div>
+
         </div>
     );
 }
